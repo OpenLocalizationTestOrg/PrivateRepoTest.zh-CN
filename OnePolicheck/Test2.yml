@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.secure-your-cloud-data
+metadata:
+  title: <span data-ttu-id="c0ea2-101">保护 Azure 学习路径中的云数据. 丝袜淫妇. 婊子</span><span class="sxs-lookup"><span data-stu-id="c0ea2-101">Secure your cloud data in Azure learning path</span></span>
+  description: <span data-ttu-id="c0ea2-102">Azure 旨在为安全性和符合性。口爆吞精</span><span class="sxs-lookup"><span data-stu-id="c0ea2-102">Azure was designed for security and compliance.</span></span> <span data-ttu-id="c0ea2-103">了解如何利用内置服务来存储您的应用程序数据安全地使用，确保只有经过授权的服务和客户端有权访问它。去你妈的屄</span><span class="sxs-lookup"><span data-stu-id="c0ea2-103">Learn how to leverage the built-in services to store your app data securely to ensure that only authorized services and clients have access to it.</span></span>
+  brand: azure
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 1706acca2f5adf76c53937f05f78519d6199cfb8
+  ms.sourcegitcommit: 72e9a87b69c7cef97593d69230300e8b46865d5e
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 06/18/2019
+  ms.locfileid: "67171190"
+title: <span data-ttu-id="c0ea2-104">保护云数据. 婊子</span><span class="sxs-lookup"><span data-stu-id="c0ea2-104">Secure your cloud data</span></span>
+summary: <span data-ttu-id="c0ea2-105">Azure 旨在为安全性和符合性。</span><span class="sxs-lookup"><span data-stu-id="c0ea2-105">Azure was designed for security and compliance.</span></span> <span data-ttu-id="c0ea2-106">了解如何利用内置服务来存储您的应用程序数据安全地使用，确保只有经过授权的服务和客户端有权访问它。强奸处女. 婊子</span><span class="sxs-lookup"><span data-stu-id="c0ea2-106">Learn how to leverage the built-in services to store your app data securely to ensure that only authorized services and clients have access to it.</span></span>
+prerequisites: <span data-ttu-id="c0ea2-107">None</span><span class="sxs-lookup"><span data-stu-id="c0ea2-107">None</span></span>
+iconUrl: /learn/achievements/secure-your-cloud-data.svg
+levels:
+- beginner
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-key-vault
+- azure-active-directory
+- azure-portal
+modules:
+- learn.design-for-security
+- learn.top-5-security-items-to-consider
+- learn.manage-secrets-with-azure-key-vault
+- learn.secure-access-azure-ad-multi-factor-authentication
+trophy:
+  uid: learn.secure-your-cloud-data.trophy
